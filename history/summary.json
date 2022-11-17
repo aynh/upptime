@@ -4,19 +4,19 @@
     "url": "https://warpedrubberyoffice.aynh.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/warpedrubberyoffice.aynh.repl.co.ico",
     "slug": "warped-rubbery-office",
-    "status": "up",
-    "uptime": "89.09%",
-    "uptimeDay": "89.09%",
-    "uptimeWeek": "89.09%",
-    "uptimeMonth": "89.09%",
-    "uptimeYear": "89.09%",
+    "status": "down",
+    "uptime": "89.96%",
+    "uptimeDay": "89.96%",
+    "uptimeWeek": "89.96%",
+    "uptimeMonth": "89.96%",
+    "uptimeYear": "89.96%",
     "time": 5334,
     "timeDay": 5334,
     "timeWeek": 5334,
     "timeMonth": 5334,
     "timeYear": 5334,
     "dailyMinutesDown": {
-      "2022-11-17": 61,
+      "2022-11-17": 55,
       "2022-11-16": 89
     }
   }
