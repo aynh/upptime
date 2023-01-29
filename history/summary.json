@@ -10,11 +10,11 @@
     "uptimeWeek": "99.03%",
     "uptimeMonth": "98.75%",
     "uptimeYear": "98.68%",
-    "time": 4851,
-    "timeDay": 323,
-    "timeWeek": 4303,
-    "timeMonth": 4198,
-    "timeYear": 4851,
+    "time": 4834,
+    "timeDay": 404,
+    "timeWeek": 4171,
+    "timeMonth": 4163,
+    "timeYear": 4834,
     "dailyMinutesDown": {
       "2023-01-26": 29,
       "2023-01-25": 37,
@@ -45,7 +45,7 @@
   },
   {
     "name": "cf-anime-quotes public API",
-    "url": "https://anime-quotes.pages.dev/api",
+    "url": "https://anime-quotes.pages.dev/api/10",
     "icon": "https://icons.duckduckgo.com/ip3/anime-quotes.pages.dev.ico",
     "slug": "cf-anime-quotes-public-api",
     "status": "up",
@@ -54,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 177,
-    "timeDay": 177,
-    "timeWeek": 177,
-    "timeMonth": 177,
-    "timeYear": 177,
+    "time": 157,
+    "timeDay": 157,
+    "timeWeek": 157,
+    "timeMonth": 157,
+    "timeYear": 157,
     "dailyMinutesDown": {}
   }
 ]
