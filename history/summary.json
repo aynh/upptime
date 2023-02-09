@@ -4,7 +4,7 @@
     "url": "https://warpedrubberyoffice.aynh.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/warpedrubberyoffice.aynh.repl.co.ico",
     "slug": "warped-rubbery-office",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
     "uptimeDay": "98.05%",
     "uptimeWeek": "99.72%",
@@ -16,6 +16,7 @@
     "timeMonth": 3884,
     "timeYear": 4739,
     "dailyMinutesDown": {
+      "2023-02-09": 0,
       "2023-02-08": 28,
       "2023-01-26": 29,
       "2023-01-25": 37,
